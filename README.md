@@ -82,4 +82,5 @@ endmodule
 ![325089068-9f92297c-07ca-4958-9714-e5c46b2f29ec](https://github.com/prithviraj5703/SR-FLIPFLOP-USING-CASE/assets/121418418/24140f07-a8f0-40ea-8176-b06beb27e9a5)
 
 **RESULTS**
+
 Thus the program to implement a SR flipflop using verilog and validating their functionality using their functional tables is successfully completed.
